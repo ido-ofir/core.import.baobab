@@ -1,6 +1,6 @@
 {
-  "name": "core.imports.baobab",
-  "version": "0.1.4",
+  "name": "core.import.baobab",
+  "version": "2.4.3",
   "description": "frontend toolchain",
   "main": "index.js",
   "dependencies": {

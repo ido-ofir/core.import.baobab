@@ -3,7 +3,7 @@
 var baobab = require('baobab');
 
 module.exports = {
-    name: 'core.imports.baobab',
+    name: 'core.import.baobab',
     imports: {
         baobab: baobab
     }
